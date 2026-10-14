@@ -1,0 +1,5 @@
+streamlit>=1.32.0
+faster-whisper>=1.0.0
+yt-dlp>=2024.03.10
+pydub>=0.25.1
+torch>=2.0.0
